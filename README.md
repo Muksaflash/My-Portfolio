@@ -3,7 +3,7 @@
 My name is Alexander. I am fond of technology and programming languages. Here is some information about me:
 
 - **Education**: I pursuing a bachelor's degree in computer science from MTUCI.
-- **Work Experience**: I worked as a programmer at King's Quest for two years where I developed electronics.
+- **Work Experience**: I worked as a programmer at King's Quest for two years where I developed electronics. I also write applications for SMM agencies as a freelancer on order.
 - **Skills**: My main skills include:
    - Development of web applications using C#.
    - Working with databases such as MySQL.
