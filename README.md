@@ -1,14 +1,19 @@
-# Обо мне
+# About me
 
-Меня зовут Алексндр. Я увлекаюсь технологиями и языками программирования. Вот некоторая информация обо мне:
+My name is Alexander. I am fond of technology and programming languages. Here is some information about me:
 
-- **Образование**: Я получил степень бакалавра в области информатики в МТУСИ.
-- **Опыт работы**: Я работал программистом в компании Королевский квест в течение двух лет, где разрабатывал электронику.
-- **Навыки**: Мои основные навыки включают:
-  - Разработка веб-приложений с использованием HTML, CSS и JQuery.
-  - Программирование на языке C#.
-  - Работа с базами данных, такими как MySQL.
-- **Проекты**: Я также занимался собственными проектами, включая разработку блога на Django и создание приложения для SMM меенеджеров на ASP.NET.
+- **Education**: I pursuing a bachelor's degree in computer science from MTUCI.
+- **Work Experience**: I worked as a programmer at King's Quest for two years where I developed electronics.
+- **Skills**: My main skills include:
+   - Development of web applications using C#.
+   - Working with databases such as MySQL.
+     
+  ### **Projects**:
 
-Я люблю изучать новые технологии и постоянно совершенствовать свои навыки. Если у вас есть какие-либо вопросы или предложения, не стесняйтесь связаться со мной!
+- Application for social network managers in ASP.NET as a freelancer in a team with no code developer.
+https://github.com/Muksaflash/APIInclusive
+
+- Application 
+
+I love learning new technologies and constantly improving my skills. If you have any questions or suggestions feel free to contact me!
 
