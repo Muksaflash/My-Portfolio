@@ -10,23 +10,23 @@ My name is Alexander. I am fond of technology and programming languages. Here is
      
   ### **Projects**:
 
-- Web pplication for social network managers in ASP.NET in a team with no code developer.
+- Web pplication for social network managers in ASP.NET in a team with no code developer
   
 https://github.com/Muksaflash/APIInclusive
 
-- A console application for managing hashtags and data parsers, allowing users to download, filter, and create funnels with hashtag data.
+- A console application for managing hashtags and data parsers, allowing users to download, filter, and create funnels with hashtag data
   
 https://github.com/Muksaflash/HashtagConsoleProgram
 
-- A simple ASP.NET API for a To-Do List application, connected to a local MySQL database using Entity Framework ORM, and featuring a graphical interface with Swagger/OpenAPI support for standard CRUD operations.
+- A simple ASP.NET API for a To-Do List application, connected to a local MySQL database using Entity Framework ORM, and featuring a graphical interface with Swagger/OpenAPI support for standard CRUD operations
 
 https://github.com/Muksaflash/TodoApi
 
-- A Windows Forms application that generates hashtag funnels for SMM managers based on a txt file containing hashtag frequencies.
+- A Windows Forms application that generates hashtag funnels for SMM managers based on a txt file containing hashtag frequencies
 
 https://github.com/Muksaflash/Hashtag-Funnel-Generator
 
-- Agent 007 Quest is an engaging WinForms game developed for King Quest, taking players on an quest adventure.
+- Agent 007 Quest is an engaging WinForms game developed for King Quest, taking players on an quest adventure
 
 https://github.com/Muksaflash/QuestWinFormsApp/tree/master
 
