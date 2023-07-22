@@ -10,7 +10,7 @@ My name is Alexander Sytov. I am fond of technology and programming languages. H
      
   ### **Projects**:
 
-- Web pplication for social network managers in ASP.NET in a team with no code developer
+- ASP.NET Web Application for Social Network Managers (Collaborative Project with No-Code Developer)
   
 https://github.com/Muksaflash/APIInclusive
 
